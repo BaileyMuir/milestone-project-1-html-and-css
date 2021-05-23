@@ -41,3 +41,9 @@ body{
 menu:hover{
     border-bottom: 2px solid inherit;
 }
+
+/* bookshelf image */
+#bookshelf{
+    width: 100%;
+    height: 600px;
+}
