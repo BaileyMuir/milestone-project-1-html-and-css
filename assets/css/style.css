@@ -10,6 +10,7 @@
     font-family: 'montserrat', "sans-serif";
     text-transform: uppercase;
     font-weight: 400;
+    letter-spacing: 3px;
 }
 
 #logo{
@@ -22,11 +23,13 @@ body{
     font-weight: 300;
     font-family: "noto-serif", "sans-serif";
     color: #414141;
+    letter-spacing: 1px;
 }
 
 /* navigation page links*/
 #menu{
     font-size: 130%;
+    letter-spacing: 1px;
 }
 #menu li{
     float: right;
