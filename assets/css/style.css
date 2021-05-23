@@ -12,6 +12,12 @@
     font-weight: 400;
 }
 
+#logo{
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
 body{
     font-weight: 300;
     font-family: "noto-serif", "sans-serif";
