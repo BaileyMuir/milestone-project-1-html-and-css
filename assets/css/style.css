@@ -5,9 +5,39 @@
     padding: 0;
     border: none;
 }
-/* header element */
-#logo {
+/* logo and header elements */
+#logo h2 h3{
     font-family: 'montserrat', "sans-serif";
     text-transform: uppercase;
-    font-weight: 200;
+    font-weight: 400;
+}
+
+body{
+    font-weight: 300;
+    font-family: "noto-serif", "sans-serif";
+    color: #414141;
+}
+
+/* navigation page links*/
+#menu{
+    font-size: 130%;
+}
+#menu li{
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#logo #menu{
+    line-height: 80px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: inherit;
+}
+
+menu:hover{
+    border-bottom: 2px solid inherit;
 }
