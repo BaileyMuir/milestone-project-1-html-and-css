@@ -74,3 +74,9 @@ td{
 .title-name{
     text-align: center;
 }
+
+/* life.html section */
+#life-of-shakespeare{
+    text-align: center;
+    text-decoration: underline;
+}
