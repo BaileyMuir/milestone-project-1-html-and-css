@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Noto+Serif+JP:wght@300&display=swap');
 
+/* body element */
 *{
     margin: 0;
     padding: 0;
@@ -64,25 +65,6 @@ menu:hover{
     border: 2px solid rgb(0, 0, 0);
     margin: 2px;
 }
-
-/* table content
-tr{
-    height: 100px;
-    min-width: 80px;
-}
-
-th{
-    border: 2px solid rgb(0, 0, 0);
-    min-height: 80px;
-    text-align: center;
-    height: 20px;
-}
-td{
-    border: 2px solid rgb(0, 0, 0);
-}
-.title-name{
-    text-align: center;
-} */
 
 /* footer styling rules */
 footer{
