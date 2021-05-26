@@ -56,6 +56,11 @@ menu:hover{
     height: 600px;
 }
 
+/* plays */
+.play{
+    border: 2px solid rgb(0, 0, 0);
+}
+
 /* table content */
 tr{
     height: 100px;
@@ -63,13 +68,13 @@ tr{
 }
 
 th{
-    border: 2px solid black;
+    border: 2px solid rgb(0, 0, 0);
     min-height: 80px;
     text-align: center;
     height: 20px;
 }
 td{
-    border: 2px solid black;
+    border: 2px solid rgb(0, 0, 0);
 }
 .title-name{
     text-align: center;
