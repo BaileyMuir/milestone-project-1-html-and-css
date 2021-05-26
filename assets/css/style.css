@@ -57,13 +57,33 @@ menu:hover{
     height: 600px;
 }
 
-/* plays */
+/* plays stylings*/
 #plays div{
     width: 32%;
-    height: 500px;
+    height: 700px;
     float: left;
     border: 2px solid rgb(0, 0, 0);
-    margin: 2px;
+    margin: 10px;
+}
+
+.shakespeares-works > h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.comedy{
+    text-align: left;
+    padding: 10px 0 0 10px;
+}
+
+.historical{
+    text-align: left;
+    padding: 10px 0 0 10px;
+}
+
+.tragedy{
+    text-align: left;
+    padding: 10px 0 0 10px;
 }
 
 /* footer styling rules */
