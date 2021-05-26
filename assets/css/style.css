@@ -113,3 +113,13 @@ footer{
     text-align: center;
     text-decoration: underline;
 }
+
+.year{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.life-events{
+    text-align: left;
+    padding: 10px 20px 10px 20px;
+}
