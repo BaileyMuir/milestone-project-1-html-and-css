@@ -34,7 +34,7 @@ body{
 #menu li{
     float: right;
     list-style-type: none;
-    margin: 10px 20px 10px 0;
+    margin: 27px 20px 10px 0;
 }
 
 #logo #menu{
@@ -57,11 +57,13 @@ menu:hover{
 }
 
 /* plays */
-.play{
-    border: 2px solid rgb(0, 0, 0);
+#plays div{
+    width: 33.3%;
+    height: 300px;
+    float: left;
 }
 
-/* table content */
+/* table content
 tr{
     height: 100px;
     min-width: 80px;
@@ -78,11 +80,11 @@ td{
 }
 .title-name{
     text-align: center;
-}
+} */
 
 /* footer styling rules */
 footer{
-    height:60px;
+    line-height: 80px;
 }
 #social-media{
     text-align: center;
@@ -93,6 +95,8 @@ footer{
 #copyright{
     text-align: end;
     font-size: 120%;
+    margin: 0 40px 0 40px;
+    padding: 0 50px 0 50px;
 }
 #social-media i{
     font-size:  50px;
