@@ -71,6 +71,9 @@ menu:hover{
     text-decoration: underline;
 }
 
+.genre-title{
+    margin: 15px 15px 15px 15px;
+}
 .comedy{
     text-align: left;
     padding: 10px 0 0 10px;
