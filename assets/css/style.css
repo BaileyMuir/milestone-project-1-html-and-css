@@ -21,7 +21,7 @@
 
 body{
     font-weight: 300;
-    font-size: 160%;
+    font-size: 140%;
     font-family: "noto-serif", "sans-serif";
     color: #222222;
     letter-spacing: 3px;
@@ -59,7 +59,7 @@ menu:hover{
 
 /* plays stylings*/
 #plays div{
-    width: 32%;
+    width: 30%;
     height: 700px;
     float: left;
     border: 2px solid rgb(0, 0, 0);
@@ -77,16 +77,19 @@ menu:hover{
 .comedy{
     text-align: left;
     padding: 10px 0 0 10px;
+ 
 }
 
 .historical{
     text-align: left;
     padding: 10px 0 0 10px;
+    font-size: 140%;
 }
 
 .tragedy{
     text-align: left;
     padding: 10px 0 0 10px;
+ 
 }
 
 /* footer styling rules */
