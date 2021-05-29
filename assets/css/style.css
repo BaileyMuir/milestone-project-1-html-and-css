@@ -61,6 +61,7 @@ menu:hover{
 #about-section{
     margin: 20px;
 }
+
 /* plays stylings*/
 #plays div{
     width: 30%;
@@ -171,7 +172,7 @@ footer{
 /* display for tablets 600px-900px */
 @media screen and (max-width: 900px){
 
-    #plays div {
+    #plays div{
         width: 80%;
         height: 600px;
         float: left;
@@ -179,7 +180,7 @@ footer{
         margin: 40px;
     }
 
-    #social-media i {
+    #social-media i{
         margin: 0 20px 0 20px;
         padding: 0 30px 0 30px;
     }
@@ -189,20 +190,38 @@ footer{
 
 @media screen and (max-width: 600px){
     
-    #plays div {
+    #plays div{
         width: 80%;
-        height: 700px;
+        height: 800px;
         float: left;
         border: 2px solid rgb(0, 0, 0);
         margin: 40px;
     }
 
-    #social-media i {
-        margin: 0 10px 0 10px;
-        padding: 0 10px 0 10px;
+    .comedy {
+        text-align: left;
+        padding: 10px 5px 5px 10px;
+        font-size: 80%;
     }
 
-    #gallery-images {
+    .historical {
+        text-align: left;
+        padding: 10px 10px 10px 10px;
+        font-size: 80%;
+    }
+
+    .tragedy{
+        text-align: left;
+        padding: 10px 10px 10px 10px;
+        font-size: 90%;
+    }
+
+    #social-media i{
+        margin: 0 10px 0 10px;
+        padding: 0 5px 0 5px;
+    }
+
+    #gallery-images{
         clear: both;
         column-count: 1;
         column-gap: 0;
