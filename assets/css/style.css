@@ -124,7 +124,7 @@ footer{
 }
 
 /* life.html section */
-#life-of-shakespeare{
+.life-of-shakespeare{
     text-align: center;
     text-decoration: underline;
     margin: 20px 0 10px 0;
