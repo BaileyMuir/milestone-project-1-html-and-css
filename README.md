@@ -138,9 +138,12 @@ To fix the issue with the font-type selector, I had to add "" or ''around them t
 
 The last bug I fixed for reactive display was the image constantly shrinking and becoming pixilated; to fix this, I used object-fit: cover;.
 
+![Error warning](assets/media-reedme/warning.png)
+
 # Validator used
 https://jigsaw.w3.org/css-validator/
 https://validator.w3.org/
+- No errors or warnings found in html and the only css one warning is due to it being unable to validate for googlefonts and no errors.
 
 # Deployment procedure
 
