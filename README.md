@@ -122,6 +122,8 @@ First, I used Wireframe to provide a basic template of my website. This was to p
 
 # Wireframe design
 
+![Wireframe](assets/media-reedme/wireframe.png)
+
 # Bugs/Fixes
 
 One error I found and fixed with the help of w3c HTML checker I had an h3 element in a ul for my then comedy, tragedy, etc. section tables. The fix was performed by removing them and placing them outside the ul.
@@ -204,4 +206,11 @@ https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md used to help
 - Developer tools chrome - allowed me to make small changes to work without affecting Gitpod, and check how it would look on specific devices based on their viewport size.
 - Balsamiq wireframe - was used to make the basic design as a template.
 
-# Finished project
+# Finished project - screenshots
+
+![Home page](assets/media-reedme/home-page.png)
+![Life top page](assets/media-reedme/life-of-shakespeare-top.png)
+![Life bottom page](assets/media-reedme/life-of-shakespeare-bottom.png)
+![Gallery top page](assets/media-reedme/home-gallery-top.png)
+![Gallery center page](assets/media-reedme/gallery-center.png)
+![Gallery bottom page](assets/media-reedme/gallery-bottom.png)
