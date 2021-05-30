@@ -209,6 +209,6 @@ https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md used to help
 # Finished project - screenshots
 
 ![Home page](assets/media-reedme/home-page.png)
-![Life top page](assets/media-reedme/life-of-shakespeare-top.png)
+![Life top page](assets/media-reedme/life-of-Shakespeare-top.png)
 ![Life bottom page](assets/media-reedme/life-of-shakespeare-bottom.png)
-![Gallery page](assets/media-reedme/home-gallery.png)
+![Gallery page](assets/media-reedme/gallery.png)
